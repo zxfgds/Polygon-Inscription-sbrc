@@ -1,0 +1,10 @@
+{
+  "private_keys": [],
+  "inscription_text": "data:application/json,{\"p\":\"src20\",\"op\":\"mint\",\"tick\":\"sbrc\",\"amt\":\"1000\"}",
+  "self_transfer_address": "0x2133770D31949d00C64a65F43EcBc4BA4239D466",
+  "interval_milliseconds": 1000,
+  "rpc_url": "https://polygon.llamarpc.com",
+  "gas": 2000000,
+  "timeout": 60,
+  "max_gas": true
+}
